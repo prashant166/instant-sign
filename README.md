@@ -6,8 +6,6 @@ Welcome to our digital signing app, a user-friendly tool designed to streamline 
 Features:
 Effortless Signing: Our app allows you to digitally sign documents with ease. Simply add your signature and download the signed file in PNG format.
 
-Responsive Design: Built with Bootstrap, our app adapts to various screen sizes, ensuring a smooth and consistent user experience across devices, whether you're on a desktop, tablet, or mobile phone.
-
 Customizable Signature: Personalize your signature by adjusting its size, color, and style to match your preferences. Our intuitive interface makes it easy to create a signature that reflects your identity.
 
 Fast and Reliable: Our app is designed for efficiency, allowing you to sign documents quickly and reliably. Say goodbye to the hassle of printing, signing by hand, and scanning—our digital signing solution saves you time and effort.
